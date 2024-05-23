@@ -205,16 +205,12 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com",
+    link: "https://github.com/Century7",
   },
+  
   {
     id: 2,
-    img: "/twit.svg",
-    link: "https://x.com",
-  },
-  {
-    id: 3,
     img: "/link.svg",
-    link: "https://linkedin.com",
+    link: "https://www.linkedin.com/in/moziaei/",
   },
 ];
